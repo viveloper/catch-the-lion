@@ -1,4 +1,5 @@
-import Board, { DeadZone } from './Board';
+import Board from './Board';
+import DeadZone from './DeadZone';
 
 class Game {
   readonly board = new Board();

@@ -1,4 +1,5 @@
 class Piece {
+  constructor() {}
   render() {
     return '';
   }
