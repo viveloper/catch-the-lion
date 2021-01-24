@@ -1,6 +1,6 @@
 import Piece from './Piece';
 
-interface Position {
+export interface Position {
   row: number;
   col: number;
 }
